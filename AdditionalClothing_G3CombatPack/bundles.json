@@ -1,0 +1,221 @@
+{
+    "manifest": [
+		{
+            "key": "AddClothingG3Combat/Tops/top_cryeac_textures_black.bundle",
+            "dependencyKeys": []
+        },
+		{
+            "key": "AddClothingG3Combat/Tops/top_cryeac_black.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+				"AddClothingG3Combat/Tops/top_cryeac_textures_black.bundle",
+                "shaders",
+                "assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddClothingG3Combat/Tops/top_cryeac_textures_khaki.bundle",
+            "dependencyKeys": []
+        },
+		{
+            "key": "AddClothingG3Combat/Tops/top_cryeac_khaki.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+				"AddClothingG3Combat/Tops/top_cryeac_textures_khaki.bundle",
+                "shaders",
+                "assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddClothingG3Combat/Tops/top_cryeac_textures_multicam_arid.bundle",
+            "dependencyKeys": []
+        },
+		{
+            "key": "AddClothingG3Combat/Tops/top_cryeac_multicam_arid.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+				"AddClothingG3Combat/Tops/top_cryeac_textures_multicam_arid.bundle",
+                "shaders",
+                "assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddClothingG3Combat/Tops/top_cryeac_textures_multicam_black.bundle",
+            "dependencyKeys": []
+        },
+		{
+            "key": "AddClothingG3Combat/Tops/top_cryeac_multicam_black.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+				"AddClothingG3Combat/Tops/top_cryeac_textures_multicam_black.bundle",
+                "shaders",
+                "assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddClothingG3Combat/Tops/top_cryeac_textures_multicam_tropic.bundle",
+            "dependencyKeys": []
+        },
+		{
+            "key": "AddClothingG3Combat/Tops/top_cryeac_multicam_tropic.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+				"AddClothingG3Combat/Tops/top_cryeac_textures_multicam_tropic.bundle",
+                "shaders",
+                "assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddClothingG3Combat/Tops/top_cryeac_textures_ranger_green.bundle",
+            "dependencyKeys": []
+        },
+		{
+            "key": "AddClothingG3Combat/Tops/top_cryeac_ranger_green.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+				"AddClothingG3Combat/Tops/top_cryeac_textures_ranger_green.bundle",
+                "shaders",
+                "assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddClothingG3Combat/Tops/top_cryeac_textures_multicam.bundle",
+            "dependencyKeys": []
+        },
+		{
+            "key": "AddClothingG3Combat/Tops/top_cryeac_multicam.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+				"AddClothingG3Combat/Tops/top_cryeac_textures_multicam.bundle",
+                "shaders",
+                "assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddClothingG3Combat/Hands/hands_cryac_black.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "assets/content/hands/usec/materials/watch_usec_textures",
+                "assets/content/textures/holemanager/round_spec_mask.bundle",
+				"assets/content/hands/bear/bear_watch.bundle",
+				"shaders"
+            ]
+        },
+		{
+            "key": "AddClothingG3Combat/Hands/hands_cryac_khaki.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "assets/content/hands/usec/materials/watch_usec_textures",
+                "assets/content/textures/holemanager/round_spec_mask.bundle",
+				"assets/content/hands/bear/bear_watch.bundle",
+				"shaders"
+            ]
+        },
+		{
+            "key": "AddClothingG3Combat/Hands/hands_cryac_multicam_arid.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "assets/content/hands/usec/materials/watch_usec_textures",
+                "assets/content/textures/holemanager/round_spec_mask.bundle",
+				"assets/content/hands/bear/bear_watch.bundle",
+				"shaders"
+            ]
+        },
+		{
+            "key": "AddClothingG3Combat/Hands/hands_cryac_multicam_black.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "assets/content/hands/usec/materials/watch_usec_textures",
+                "assets/content/textures/holemanager/round_spec_mask.bundle",
+				"assets/content/hands/bear/bear_watch.bundle",
+				"shaders"
+            ]
+        },
+		{
+            "key": "AddClothingG3Combat/Hands/hands_cryac_multicam_tropic.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "assets/content/hands/usec/materials/watch_usec_textures",
+                "assets/content/textures/holemanager/round_spec_mask.bundle",
+				"assets/content/hands/bear/bear_watch.bundle",
+				"shaders"
+            ]
+        },
+		{
+            "key": "AddClothingG3Combat/Hands/hands_cryac_ranger_green.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "assets/content/hands/usec/materials/watch_usec_textures",
+                "assets/content/textures/holemanager/round_spec_mask.bundle",
+				"assets/content/hands/bear/bear_watch.bundle",
+				"shaders"
+            ]
+        },
+		{
+            "key": "AddClothingG3Combat/Hands/hands_cryac_multicam.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "assets/content/hands/usec/materials/watch_usec_textures",
+                "assets/content/textures/holemanager/round_spec_mask.bundle",
+				"assets/content/hands/bear/bear_watch.bundle",
+				"shaders"
+            ]
+        },
+		{
+            "key": "AddClothingG3Combat/Bottoms/bottom_cryeprecision_black.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+                "assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddClothingG3Combat/Bottoms/bottom_cryeprecision_khaki.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+                "assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddClothingG3Combat/Bottoms/bottom_cryeprecision_multicam_arid.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+                "assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddClothingG3Combat/Bottoms/bottom_cryeprecision_multicam_black.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+                "assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddClothingG3Combat/Bottoms/bottom_cryeprecision_multicam_tropic.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+                "assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddClothingG3Combat/Bottoms/bottom_cryeprecision_ranger_green.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+                "assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddClothingG3Combat/Bottoms/bottom_cryeprecision_multicam.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+                "assets/content/characters/character/skeleton.bundle"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+	"AddClothingG3Combat_BlackCryeACUpper": {
+        "Name": "G3 Боевая Рубашка (Черный)"
+	},
+	"AddClothingG3Combat_BlackCryePresLower": {
+        "Name": "G3 Боевые Штаны (Черный)"
+	},
+	"AddClothingG3Combat_KhakiCryeACUpper": {
+        "Name": "G3 Боевая Рубашка (Khaki)"
+	},
+	"AddClothingG3Combat_KhakiCryePresLower": {
+        "Name": "G3 Боевые Штаны (Khaki)"
+	},
+	"AddClothingG3Combat_MulticamAridCryeACUpper": {
+        "Name": "G3 Боевая Рубашка (Multicam Arid)"
+	},
+	"AddClothingG3Combat_MulticamAridCryePresLower": {
+        "Name": "G3 Боевые Штаны (Multicam Arid)"
+	},
+	"AddClothingG3Combat_MulticamBlackCryeACUpper": {
+        "Name": "G3 Боевая Рубашка (Multicam Black)"
+	},
+	"AddClothingG3Combat_MulticamBlackCryePresLower": {
+        "Name": "G3 Боевые Штаны (Multicam Black)"
+	},
+	"AddClothingG3Combat_MulticamTropicCryeACUpper": {
+        "Name": "G3 Боевая Рубашка (Multicam Tropic)"
+	},
+	"AddClothingG3Combat_MulticamTropicCryePresLower": {
+        "Name": "G3 Боевые Штаны (Multicam Tropic)"
+	},
+	"AddClothingG3Combat_RangerGreenCryeACUpper": {
+        "Name": "G3 Боевая Рубашка (Ranger Green)"
+	},
+	"AddClothingG3Combat_RangerGreenCryePresLower": {
+        "Name": "G3 Боевые Штаны (Ranger Green)"
+	},
+	"AddClothingG3Combat_MulticamCryeACUpper": {
+        "Name": "G3 Боевая Рубашка (Multicam)"
+	},
+	"AddClothingG3Combat_MulticamCryePresLower": {
+        "Name": "G3 Боевые Штаны (Multicam)"
+	}
+}

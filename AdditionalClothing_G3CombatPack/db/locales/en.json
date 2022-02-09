@@ -1,0 +1,44 @@
+{
+	"AddClothingG3Combat_BlackCryeACUpper": {
+        "Name": "G3 Combat Shirt (Black)"
+	},
+	"AddClothingG3Combat_BlackCryePresLower": {
+        "Name": "G3 Combat Pants (Black)"
+	},
+	"AddClothingG3Combat_KhakiCryeACUpper": {
+        "Name": "G3 Combat Shirt (Khaki)"
+	},
+	"AddClothingG3Combat_KhakiCryePresLower": {
+        "Name": "G3 Combat Pants (Khaki)"
+	},
+	"AddClothingG3Combat_MulticamAridCryeACUpper": {
+        "Name": "G3 Combat Shirt (Multicam Arid)"
+	},
+	"AddClothingG3Combat_MulticamAridCryePresLower": {
+        "Name": "G3 Combat Pants (Multicam Arid)"
+	},
+	"AddClothingG3Combat_MulticamBlackCryeACUpper": {
+        "Name": "G3 Combat Shirt (Multicam Black)"
+	},
+	"AddClothingG3Combat_MulticamBlackCryePresLower": {
+        "Name": "G3 Combat Pants (Multicam Black)"
+	},
+	"AddClothingG3Combat_MulticamTropicCryeACUpper": {
+        "Name": "G3 Combat Shirt (Multicam Tropic)"
+	},
+	"AddClothingG3Combat_MulticamTropicCryePresLower": {
+        "Name": "G3 Combat Pants (Multicam Tropic)"
+	},
+	"AddClothingG3Combat_RangerGreenCryeACUpper": {
+        "Name": "G3 Combat Shirt (Ranger Green)"
+	},
+	"AddClothingG3Combat_RangerGreenCryePresLower": {
+        "Name": "G3 Combat Pants (Ranger Green)"
+	},
+	"AddClothingG3Combat_MulticamCryeACUpper": {
+        "Name": "G3 Combat Shirt (Multicam)"
+	},
+	"AddClothingG3Combat_MulticamCryePresLower": {
+        "Name": "G3 Combat Pants (Multicam)"
+	}
+}
